@@ -8,11 +8,13 @@
  <br><br>
 
 <h2 align="left"> My awards</h2>
+
 || 2022 | 2023 | 2024 |
 | ----- | ----- | ----- | ----- |
 | 1학기 | 교과우수상(기획) |||
 | 2학기 | 교과우수상(기획), 팀프로젝트 2등 |||
 
 <h2 align="left"> My stats</h2>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rladmschd235&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rladmschd235&theme=tokyonight&layout=compact">
