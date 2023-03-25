@@ -3,7 +3,7 @@
 <div>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
   <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=Cpp&logoColor=white"/>
  </div>
  <br><br>
 
