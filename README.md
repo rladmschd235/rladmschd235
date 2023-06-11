@@ -18,3 +18,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rladmschd235&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rladmschd235&theme=tokyonight&layout=compact">
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={rladmschd0032})](https://solved.ac/{rladmschd0032})
+<img src="http://mazandi.herokuapp.com/api?handle={rladmschd0032}&theme=cold"/>
