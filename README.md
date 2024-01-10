@@ -1,7 +1,7 @@
 
 <h2 align="left"> 🍀 I'm studying </h2>
 <div>
-  <img src="https://img.shields.io/badge/C Sharp-239120?style=flat&logo=C Sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/csharp-239120?style=flat&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
  </div>
  <br><br>
