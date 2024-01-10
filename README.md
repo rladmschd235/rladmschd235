@@ -9,7 +9,7 @@
 <h2 align="left"> My stats 👩‍💻 </h2>
 
 ![rladmschd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rladmschd235&hide=contribs,prs&show_icons=true&theme=graywhite)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rladmschd235&theme=tokyonight&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rladmschd235&theme=graywhite&layout=compact">
 
 <h2 align="left"> My algorithm stats 👩‍💻 </h2>
 
