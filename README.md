@@ -10,8 +10,8 @@
 
 <div>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
 </div>
 <br/><br/>
  
