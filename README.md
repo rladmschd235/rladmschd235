@@ -6,14 +6,6 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
  </div>
  <br><br>
-
-<h2 align="left"> My awards 🏆 </h2>
-
-|| 2022 | 2023 | 2024 |
-| ----- | ----- | ----- | ----- |
-| 1학기 | 교과우수상(기획), 교내 게임잼 기획 부문 1등 |||
-| 2학기 | 교과우수상(기획), 팀프로젝트 2등 |||
-
 <h2 align="left"> My stats 👩‍💻 </h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rladmschd235&show_icons=true&theme=tokyonight)
