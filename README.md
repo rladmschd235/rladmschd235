@@ -4,13 +4,16 @@
   <img src="https://img.shields.io/badge/C sharp-239120?style=flat&logo=csharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
 </div>
+<br/><br/>
 
 <h2 align="left"> 🍀 Used Tool </h2>
 
 <div>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
+  <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 </div>
+<br/><br/>
  
 <h2 align="left"> 🍀 My Github stats </h2>
 
