@@ -9,7 +9,7 @@
 
 <div>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
-  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
 </div>
  
 <h2 align="left"> 🍀 My Github stats </h2>
