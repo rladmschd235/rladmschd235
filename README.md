@@ -19,3 +19,4 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rladmschd0032)](https://solved.ac/rladmschd0032)
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=rladmschd0032&theme=warm)
