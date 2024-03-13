@@ -6,7 +6,7 @@
 </div>
 <br/><br/>
 
-<h2 align="left"> 🍀 Used Tool </h2>
+<h2 align="left"> 🍀 Used Tools </h2>
 
 <div>
   <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"/>
@@ -14,12 +14,8 @@
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white"/>
 </div>
 <br/><br/>
- 
-<h2 align="left"> 🍀 My Github stats </h2>
 
-![rladmschd's GitHub stats](https://github-readme-stats.vercel.app/api?username=rladmschd235&hide=contribs,prs&show_icons=true&theme=graywhite)
-
-<h2 align="left"> 🍀 My algorithm stats </h2>
+<h2 align="left"> 🍀 Algorithm Stat </h2>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=rladmschd0032)](https://solved.ac/rladmschd0032)
